@@ -1,0 +1,110 @@
+body {
+    background-color: #EFBC9B;
+
+}
+
+* {
+    text-align: center;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3 {
+    display: inline;
+    color: #430A5D;
+    margin-left: 10px
+}
+
+.second,
+h3 {
+    color: #FF9800;
+}
+
+.green-flag {
+    background-color: #222831;
+    color: #76ABAE;
+    width: 900px;
+    height: 200px;
+    margin-bottom: 25px;
+
+}
+
+.note {
+    text-align: center;
+    width: 60px;
+    height: 80px;
+    margin-top: 0px;
+    margin-left: 300px;
+    padding: 100px;
+    border-radius: 150px;
+    color: #5356FF;
+    background-color: #378CE7
+}
+
+.simon {
+    color: #7F9F80;
+    background-color: #124076;
+    height: 50px;
+    padding: 20px;
+    display: inline-block;
+}
+
+div[main="true"] {
+    background-color: #FF204E;
+    width: 900px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 0px;
+
+}
+
+.box {
+    color: #7F9F80;
+    background-color: #F9E897;
+    border: dashed#FFC374;
+    border-width: 100px;
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    border-top: 0px;
+    margin-left: 100px;
+}
+
+.end1 {
+    color: red;
+    display: block;
+
+}
+
+.end2 {
+    color: green;
+    display: block;
+    background-color: #430A5D;
+
+}
+
+.end3 {
+    color: #FF204E;
+    display: block;
+
+}
+
+.end4 {
+    background-color: blue;
+    color: black
+}
+
+.pin1,
+.pin2,
+.pin3,
+.pin0,
+.pin4 {
+    color: #FF9800;
+    display: inline;
+}
+
+.slide {
+    background-color: #E178C5;
+    color: #FFB38E;
+}
